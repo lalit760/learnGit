@@ -1,0 +1,2 @@
+git commit -m " " --> once do the commit all the chabges will move to the local repo
+git push origin main --> now the changes will move from local repo to the remote repo
